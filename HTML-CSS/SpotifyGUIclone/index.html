@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="icon" href="./Assets/logo.png">
+    <link rel="stylesheet" href="style.css">
+    <title>Spotify - Web Player: Music for everyone</title>
+</head>
+
+<body>
+    <div class="main">
+        <header class="head">
+            <div class="home">
+                <a href="index.html"><img src="./Assets/logo_white2.png" alt="logo"></a>
+                <a href="index.html"><i class="fa-solid fa-house"></i></a>
+            </div>
+            <div class="search">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" placeholder="What do you want to Play?">
+                <img src="./Assets/browse.png" alt="browse">
+            </div>
+            <button>Explore Premium</button>
+            <div class="down">
+                <i id="down_btn" class="fa-regular fa-circle-down"></i>
+                <label for="down_btn">Install app</label>
+            </div>
+            <i id="bell" class="fa-regular fa-bell"></i>
+            <img src="./Assets/prof.jpg" alt="prof">
+
+
+        </header>
+        <main class="main-content">
+            <h2>Recently Played</h2>
+            <div class="card-container">
+                <div class="card"> <img src="./Assets/card1img.jpeg" alt="img">
+                    <p class="card_title">Top 50 - Global</p>
+                    <p class="card_info">Your daily updates of the most played tracks</p>
+                </div>
+            </div>
+            <h2>Trending now</h2>
+            <div class="card-container">
+                <div class="card"> <img src="./Assets/card2img.jpeg" alt="img">
+                    <p class="card_title">Mahiye Inna Sona</p>
+                    <p class="card_info">Most trending nowadays on spotify</p>
+                </div>
+                <div class="card"> <img src="./Assets/card3img.jpeg" alt="img">
+                    <p class="card_title">Pakistani OTT</p>
+                    <p class="card_info">Top trending OTT song on spotify</p>
+                </div>
+                <div class="card"> <img src="./Assets/card4img.jpeg" alt="img">
+                    <p class="card_title">Best of Bengal</p>
+                    <p class="card_info">Top trending Bengali vibes on spotify</p>
+                </div>
+            </div>
+            <h2>Featured Charts</h2>
+            <div class="card-container">
+                <div class="card"> <img src="./Assets/card5img.jpeg" alt="img">
+                    <p class="card_title">Top Songs Global</p>
+                    <p class="card_info">Your daily updates of Globally most played tracks</p>
+                </div>
+                <div class="card"> <img src="./Assets/card6img.jpeg" alt="img">
+                    <p class="card_title">Top Indian songs </p>
+                    <p class="card_info">Top most played Indian tracks of the Week</p>
+                </div>
+                <div class="card"> <img src="./Assets/card1img.jpeg" alt="img">
+                    <p class="card_title">Top 50 - Global</p>
+                    <p class="card_info">Your daily updates of the most played tracks</p>
+                </div>
+            </div>
+            <hr>
+            <div class="extras">
+                <div class="info_box">
+                    <p>Company</p>
+                    <span>About</span>
+                    <span>Jobs</span>
+                    <span>For the record</span>
+                </div>
+                <div class="info_box">
+                    <p>Communities</p>
+                    <span>For Artists</span>
+                    <span>Developers</span>
+                    <span>Advertising</span>
+                    <span>Investors</span>
+                    <span>Vendors</span>
+                </div>
+                <div class="info_box">
+                    <p>Useful links</p>
+                    <span>Support</span>
+                    <span>Free Mobile App</span>
+                    <span>Popular by country</span>
+                    <span>Import your Music</span>
+                </div>
+                <div class="info_box">
+                    <p>Spotify Plans</p>
+                    <span>Premium Indivisual</span>
+                    <span>Premium Duo</span>
+                    <span>Premium Family</span>
+                    <span>Premium Student</span>
+                    <span>Spotify Free</span>
+                </div>
+            </div>
+            <hr>
+            <footer>
+                <span>Legal</span>
+                <span>Safety & Privacy Center</span>
+                <span>Privacy Policy</span>
+                <span>Cookies</span>
+                <span>About Ads</span>
+                <span>Accessibility</span>
+                <span id="copy">&copy; GUI Cloned by M.Muzammil</span>
+            </footer>
+
+
+        </main>
+        <aside class="sidebar">
+            <div class="lib">
+                <img src="./Assets/library_icon.png" alt="lib">
+                <a>Your Library</a>
+                <span>+</span>
+            </div>
+            <div class="box">
+                <p class="p1">Create your first playlist</p>
+                <p class="p2">It's easy we'll help you</p>
+                <button>Create Playlist</button>
+            </div>
+            <div class="box">
+                <p class="p1">Let's find some podcasts to follow</p>
+                <p class="p2">We'll keep you updated on new episodes</p>
+                <button>Browse Podcasts</button>
+            </div>
+        </aside>
+        <div class="music-player">
+            <div class="album">
+                <img src="./Assets/song_ico.webp" alt="ico">
+                <div class="song_txt">
+                    <p class="s_title">Wavy</p>
+                    <p class="s_subtitle">Karan Aujla, Jay Trak</p>
+                </div>
+                <i id="c_p" class="fas fa-circle-plus"></i>
+            </div>
+            <div class="player">
+                <div class="buttons">
+                    <img class="player_control" src="./Assets/player_icon1.png" alt="ico">
+                    <img class="player_control" src="./Assets/player_icon2.png" alt="ico">
+                    <img class="play_btn" src="./Assets/player_icon3.png" alt="ico">
+                    <img class="player_control" src="./Assets/player_icon4.png" alt="ico">
+                    <img class="player_control" src="./Assets/player_icon5.png" alt="ico">
+                </div>
+                <div class="bar">
+                    <span class="start_t">00:00</span>
+                    <input type="range" min="0" max="100">
+                    <span class="end_t">33:33</span>
+                </div>
+            </div>
+            <div class="end_controls">
+                <img src="./Assets/side_controls.PNG" alt="">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
