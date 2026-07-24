@@ -25,7 +25,7 @@ This repository is organized into distinct learning modules:
 ### 🎨 HTML & CSS
 | Project Name | Description | Link |
 | :--- | :--- | :---: |
-| **Spotify GUI clone** | Responsive and PixelPerfect GUI clone 2025. | [View Code](.SpotifyGUIclone) |
+| **Spotify GUI clone** | Responsive and PixelPerfect GUI clone 2025. | [View Code](./HTML-CSS/SpotifyGUIclone) |
 ---
 
 ### ⚡ JavaScript (Vanilla JS)
