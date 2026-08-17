@@ -14,8 +14,14 @@ This repository is organized into distinct learning modules:
 
 ```text
 📂 mini-projects/
-├── 📁 HTML-CSS/      # Responsive layouts, UI design practice, & styled elements
-└── 📁 JavaScript/    # DOM manipulation, dynamic interactions, & mini apps
+├── 📁 HTML-CSS/
+│   ├── 📁 Portfolio/
+│   └── 📁 SpotifyGUIclone/
+└── 📁 JavaScript/
+    ├── 📁 RandomCatFacts/
+    ├── 📁 SimonSaysGame/
+    └── 📁 TodoList/
+
 ```
 
 ---
@@ -23,31 +29,42 @@ This repository is organized into distinct learning modules:
 ## 💻 Project Index
 
 ### 🎨 HTML & CSS
+
 | Project Name | Description | Link |
-| :--- | :--- | :---: |
-| **Spotify GUI clone** | Responsive and PixelPerfect GUI clone 2025. | [View Code](./HTML-CSS/SpotifyGUIclone) |
+| --- | --- | --- |
+| **Portfolio** | A clean, minimal, and mobile-friendly personal portfolio built with HTML and CSS. | [View Code](https://www.google.com/search?q=./HTML-CSS/Portfolio) |
+| **Spotify GUI Clone** | A responsive front-end replica of Spotify's user interface, built to master layout design and styling. | [View Code](https://www.google.com/search?q=./HTML-CSS/SpotifyGUIclone) |
+
 ---
 
 ### ⚡ JavaScript (Vanilla JS)
+
 | Project Name | Description | Link |
-| :--- | :--- | :---: |
-| **To-Do List App** | Basic Task manager toDoList. | [View Code](./JavaScript/TodoList) |
+| --- | --- | --- |
+| **Random Cat Facts** | An interactive web app using Axios to fetch and display random cat facts on demand. | [View Code](https://www.google.com/search?q=./JavaScript/RandomCatFacts) |
+| **Simon Says Game** | A classic memory pattern game built using DOM manipulation and event handling. | [View Code](https://www.google.com/search?q=./JavaScript/SimonSaysGame) |
+| **To-Do List App** | Basic Task manager toDoList. | [View Code](https://www.google.com/search?q=./JavaScript/TodoList) |
+
 ---
 
 ## 🚀 How to Run Locally
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/muzammilAwan-dev/mini-projects.git](https://github.com/muzammilAwan-dev/mini-projects.git)
-   ```
+```bash
+git clone [https://github.com/muzammilAwan-dev/mini-projects.git](https://github.com/muzammilAwan-dev/mini-projects.git)
+
+```
+
 
 2. **Navigate to the target project folder:**
-   ```bash
-   cd mini-projects/HTML-CSS/your-project-folder
-   ```
+```bash
+cd mini-projects/HTML-CSS/your-project-folder
+
+```
+
 
 3. **Launch:**
-   Simply double-click or open the `index.html` file in any modern web browser.
+Simply double-click or open the `index.html` file in any modern web browser.
 
 ---
 
@@ -55,4 +72,4 @@ This repository is organized into distinct learning modules:
 
 * **GitHub:** [@muzammilAwan-dev](https://github.com/muzammilAwan-dev)
 * **Instagram:** [@itx.muzz](https://instagram.com/itx.muzz)
-* **Email:** [ytmalikbhai@gmail.com](mailto:ytmalikbhai@gmail.com)
+* **Email:** [muzammilawan.dev9@gmail.com](https://www.google.com/search?q=mailto%3Amuzammilawan.dev9%40gmail.com)
