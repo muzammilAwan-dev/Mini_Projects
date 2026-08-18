@@ -18,7 +18,7 @@ This repository is organized into distinct learning modules:
 │   ├── 📁 Portfolio/
 │   └── 📁 SpotifyGUIclone/
 └── 📁 JavaScript/
-    ├── 📁 RandomCatFacts/
+    ├── 📁 ApiBased/
     ├── 📁 SimonSaysGame/
     └── 📁 TodoList/
 
@@ -41,7 +41,7 @@ This repository is organized into distinct learning modules:
 
 | Project Name | Description | Link |
 | --- | --- | --- |
-| **Random Cat Facts** | An interactive web app using Axios to fetch and display random cat facts on demand. | [View Code](./JavaScript/RandomCatFacts) |
+| **ApiBased Project** | An interactive web app using Axios to fetch and display random cat facts and Dad Jokes on demand. | [View Code](./JavaScript/ApiBased) |
 | **Simon Says Game** | A classic memory pattern game built using DOM manipulation and event handling. | [View Code](./JavaScript/SimonSaysGame) |
 | **To-Do List App** | Basic Task manager toDoList. | [View Code](./JavaScript/TodoList) |
 
