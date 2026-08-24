@@ -21,6 +21,7 @@ This repository is organized into distinct learning modules:
     ├── 📁 ApiBased/
     ├── 📁 SimonSaysGame/
     └── 📁 TodoList/
+    └── 📁 UniversitySearch/
 
 ```
 
@@ -44,6 +45,7 @@ This repository is organized into distinct learning modules:
 | **ApiBased Project** | An interactive web app using Axios to fetch and display random cat facts and Dad Jokes on demand. | [View Code](./JavaScript/ApiBased) |
 | **Simon Says Game** | A classic memory pattern game built using DOM manipulation and event handling. | [View Code](./JavaScript/SimonSaysGame) |
 | **To-Do List App** | Basic Task manager toDoList. | [View Code](./JavaScript/TodoList) |
+| **University Search** | Search any university with Keyword. | [View Code](./JavaScript/UniversitySearch) |
 
 ---
 
