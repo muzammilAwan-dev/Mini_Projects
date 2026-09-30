@@ -53,7 +53,7 @@ This repository is organized into distinct learning modules:
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/muzammilAwan-dev/mini-projects.git](https://github.com/muzammilAwan-dev/mini-projects.git)
+git clone https://github.com/muzammilAwan-dev/mini-projects.git
 
 ```
 
