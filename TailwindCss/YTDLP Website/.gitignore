@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Tailwind compiled output
+src/output.css
+
+# OS & Environment files
+.DS_Store
+.env
