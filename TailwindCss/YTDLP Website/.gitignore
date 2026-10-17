@@ -1,9 +1,25 @@
 # Dependencies
-node_modules/
+/node_modules
 
-# Tailwind compiled output
-src/output.css
+# Build outputs (Tailwind CSS compiled output)
+/src/output.css
 
-# OS & Environment files
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating System files
 .DS_Store
-.env
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
