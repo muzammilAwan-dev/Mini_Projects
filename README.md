@@ -11,18 +11,20 @@ This repository is organized into distinct learning modules:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ```text
 📂 mini-projects/
 ├── 📁 HTML-CSS/
 │   ├── 📁 Portfolio/
 │   └── 📁 SpotifyGUIclone/
-└── 📁 JavaScript/
-    ├── 📁 ApiBased/
-    ├── 📁 SimonSaysGame/
-    └── 📁 TodoList/
-    └── 📁 UniversitySearch/
-
+├── 📁 JavaScript/
+│   ├── 📁 ApiBased/
+│   ├── 📁 SimonSaysGame/
+│   ├── 📁 TodoList/
+│   └── 📁 UniversitySearch/
+└── 📁 TailwindCss/
+    └── 📁 YTDLP Website/
 ```
 
 ---
@@ -49,6 +51,14 @@ This repository is organized into distinct learning modules:
 
 ---
 
+### 🌬️ Tailwind CSS
+
+| Project Name | Description | Link |
+| --- | --- | --- |
+| **YT Downloader Pro** | A responsive landing page for a YouTube downloader, styled with Tailwind CSS. | [View Code](./TailwindCss/YTDLP%20Website) |
+
+---
+
 ## 🚀 How to Run Locally
 
 1. **Clone the repository:**
@@ -58,9 +68,9 @@ git clone https://github.com/muzammilAwan-dev/mini-projects.git
 ```
 
 
-2. **Navigate to the target project folder:**
+2. **Navigate to the project folder you want to run:**
 ```bash
-cd mini-projects/HTML-CSS/your-project-folder
+cd mini-projects/path/to/project
 
 ```
 
